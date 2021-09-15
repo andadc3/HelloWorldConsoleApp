@@ -6,7 +6,8 @@ namespace HelloWorldConsoleApp
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!!!");
+      Console.WriteLine("Hello World!");
+      Console.WriteLine("Just another change to trigger SCM polling.");
     }
   }
 }
